@@ -1,8 +1,10 @@
 # dsci_100_final_project
 
-This project utilizes k-nearest neighbors classification in order to determine whether observations represent true pulsar stars or radio wave interference.
+## About
 
-Sources:
+This project utilizes k-nearest neighbors classification in order to determine whether observations represent true pulsar stars or radio wave interference. 
+
+## Sources
 
 Lyon, Robert James. “HTRU2 Data Set.” UCI Machine Learning Repository, HTRU2 Data Set, https://archive.ics.uci.edu/ml/datasets/HTRU2
 
